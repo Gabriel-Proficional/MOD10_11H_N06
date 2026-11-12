@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\documents\\mod10_11h_n06\\m10_fase1_base_alunos\\m10_fase1\\gestaoequipamentos\\interface\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|solutionrelative:gestaoequipamentos\\interface\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\documents\\mod10_11h_n06\\m10_fase1_base_alunos\\m10_fase1\\gestaoequipamentos\\interface\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|solutionrelative:gestaoequipamentos\\interface\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\documents\\mod10_11h_n06\\m10_fase1_base_alunos\\m10_fase1\\gestaoequipamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|solutionrelative:gestaoequipamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\documents\\mod10_11h_n06\\m10_fase1_base_alunos\\m10_fase1\\gestaoequipamentos\\modelo\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|solutionrelative:gestaoequipamentos\\modelo\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\documents\\mod10_11h_n06\\m10_fase1_base_alunos\\m10_fase1\\gestaoequipamentos\\interface\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|solutionrelative:gestaoequipamentos\\interface\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\gestaoequipamentos\\interface\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B1E2C3A-4D5F-4A7B-9C8D-0E1F2A3B4C5D}|GestaoEquipamentos\\GestaoEquipamentos.csproj|solutionrelative:gestaoequipamentos\\interface\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEquipamento.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "RelativeDocumentMoniker": "GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormEquipamento.cs [Projeto]",
+              "RelativeToolTip": "GestaoEquipamentos\\Interface\\FormEquipamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T00:48:44.827Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEquipamento.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "RelativeDocumentMoniker": "GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "RelativeToolTip": "GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T00:35:27.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoEquipamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Program.cs",
+              "RelativeToolTip": "GestaoEquipamentos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:13:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "RelativeToolTip": "GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T16:16:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Interface\\FormPrincipal.cs [Projeto]",
+              "RelativeToolTip": "GestaoEquipamentos\\Interface\\FormPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T16:15:57.453Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipamento.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "RelativeDocumentMoniker": "GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Documents\\MOD10_11H_N06\\M10_Fase1_base_alunos\\M10_Fase1\\GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "RelativeToolTip": "GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:38:24.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
